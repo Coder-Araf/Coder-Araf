@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">hey there 👋  I'm < Shabbir Hossan /></h1>
+<h1 align="center">hey there 👋  I'm < Araf / Zayan /></h1>
 
 ###
 
@@ -14,19 +14,31 @@
 
 <p align="left">Hi there! 👋
 
-I'm Shabbir, a passionate UI/UX Designer and Web Developer with over 4+ years of experience in transforming ideas into compelling digital experiences. My journey in design and development is fueled by a passion for creating user-centric solutions that are both aesthetically pleasing and highly functional. I specialize in:
+I'm Coder Araf, a passionate UI/UX Designer and Web Developer with over 2+ years of experience in transforming ideas into compelling digital experiences. My journey in design and development is fueled by a passion for creating user-centric solutions that are both aesthetically pleasing and highly functional. I specialize in:
 
-    UI/UX Design: Crafting intuitive and delightful user interfaces.
-    Web Development: Building responsive and high-performance websites and applications.
-    User Research: Implementing in-depth research to guide design decisions and improve user satisfaction.
-    Prototyping & Wireframing: Converting concepts into interactive prototypes and detailed wireframes.
-    Collaborative Projects: Working seamlessly with cross-functional teams to achieve project goals.
+ 💡 Passionate about coding and creating seamless digital experiences.
+
+🔧 Proficient in:
+
+    Languages: HTML, CSS, JavaScript, Bootstrap, tailwind, Python
+    Frameworks: React, Angular, Vue.js, Django
+    Tools: Git, Webpack, Docker
+
+🚀 Focused on:
+
+    Responsive web design
+    Clean, maintainable code
+    Cutting-edge web technologies
+
+💻 Open-source enthusiast. Always eager to learn and collaborate on exciting projects.
+
+📫 Let’s connect and build something extraordinary!
 
 🚀 I'm always excited to take on new challenges and collaborate on innovative projects. Let's create something amazing together!
 
 💼 Currently open for freelance projects and full-time opportunities. <br>
   
-- 📧 How to reach me: shabbir.official54@gmail.com.<br/>
+- 📧 How to reach me: afranaraf098@gmail.com.<br/>
 - 📚 I'm currently learning  Django, Vue <br/>
 - ⚡ In my free time I was playing<br/>
 - 💬 Ask me about JavaScript, React.js </p>
