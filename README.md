@@ -1,5 +1,5 @@
 <div align="center">
-  ![image](https://github.com/Coder-Araf/Coder-Araf/assets/86096348/4c1b78c4-d16f-4d6d-bf64-296f457e2fc9)
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw17_VMeYvTbRekvz3TFky2-&ust=1719753586910000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLi73b_zgIcDFQAAAAAdAAAAABAE"
 
 </div>
 
